@@ -1,4 +1,4 @@
-# JobScraper
+# IndeedScraper
 
 A web scraper that extracts job listings from Indeed for specified job titles and locations using Selenium. The scraped data includes job titles, locations, extraction dates, and job URLs, which are saved to a CSV file.
 
